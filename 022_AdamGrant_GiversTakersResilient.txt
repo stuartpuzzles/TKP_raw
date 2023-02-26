@@ -1,0 +1,744 @@
+Skip to main content
+Skip to header right navigation
+Skip to site footer
+Farnam Street Logo
+Farnam StreetMastering the best of what other people have already figured out
+Members
+
+Articles
+Newsletter
+Podcast
+Books
+Courses
+Search
+Hello Stuart Falco
+Membership
+THE KNOWLEDGE PROJECT PODCAST TRANSCRIPTS
+
+[The Knowledge Project Ep. #22] Adam Grant: Givers, Takers, and the Resilient Mind
+Shane: Adam, thank you so much for being on here. I have so much respect for all of your work, and your writing, and your thinking. I’m really excited about this conversation.
+
+Adam: Thanks, Shane. I’m a loyal Farnam Street reader. So it’s really cool to be listening to you….
+
+Shane: Can you tell me a little bit about what you do?
+
+Adam: Oh, I guess I’m an organizational psychologist and I split my time between a bunch of different roles. I’m a professor at Wharton; I teach an MBA class and undergrad class—leadership, teamwork, organizational behavior. That’s all in the fall. Then in the winter, spring, summer, I’m an author, speaker, consultant, and occasional recovering data geek. How’s that?
+
+Shane: How do you find time for all that?
+
+Adam: I think the cycling helps. So I don’t get a lot done that’s not teaching related in the fall. But a whole semester of intense engagement with students leaves me with a bunch of new questions that I’m really excited to explore in research projects, and in writing. Then as I go speak about new ideas, I get new ideas back and it feeds into changing my class each fall. So, it’s really nice to juggle these different hats.
+
+Shane:  How do you filter which problems you work on? So you walk away from students with probably hundreds of different ideas. How do you pick the ones that you’re going to focus your attention on?
+
+Adam: Like you, I keep an idea journal, and it’s a little notebook that I carry around in my pocket. Every week, I transcribe the little notes that are handwritten into a Word document. Super high technology. I learned that about once a month, I like to just review the notes. Usually when I do it when I’ve given myself permission or freedom to work on something new and creative because I feel like I’ve actually finished something that was sort of more in completion mode.
+
+Then as I go through it, what I’ll notice is if an idea has come up more than once, that’s either a sign that it’s really interesting, or that I’m just depressingly consistent. Certain focus on the ideas that I’ve written about multiple times without even remembering having done it. Then I also try to filter a little bit on if we understood this problem better, or if we had a way to tackle it, how much of a difference would it make for people’s lives, especially their lives at work? The more important it feels of all the ideas that I find personally interesting, the more likely I am to pursue it.
+
+Shane: So are you doing research after you start pursuing those ideas, and then a book follows? Walk me through that kind of process of how we actually get to consume all of your amazing thoughts.
+
+Adam: Often what happens is, I feel like a chunk of my job is basically to read all the interesting new research that’s coming out in the realm of work and psychology, and figure out how it can be applied to make our work lives less miserable, and help organizations become less unproductive. Then oftentimes I’ll be in the classroom with students, or I’ll be out doing researching and consulting in an organization, or I’ll be speaking on stage. I’ll see something, or hear something, or experience something that directly contradicts what I’ve been reading in research or that’s just totally un-captured in research.
+
+So then, I’ll start doing a bunch of digging to figure out, “Well, wait, is it just that I’ve missed the data representing this, or did the data not exist?” If it’s the latter, and if I’m interested enough in it, or I feel like I have something important to say about it, then I’ll start a research project on it. It could be months, or it could be years before the project sees the light of day.
+
+Then I guess over the period of several years, I start to notice patterns, like I’m revolving around some similar questions, or developing a philosophy that’s bigger than one study or one insight. Then that might suggest that there’s an article to be written or a book to be written; then eventually I decide to do it.
+
+Shane:  How long did it take you to write your first book?
+
+Adam:  For Give and Take, there are two answers. One is that it took me about four months, and the other is that it took me about a dozen years.
+
+Shane: Okay.
+
+Adam: The four months is the actual intensive writing period. I do a lot of my writing in bursts. So, once I have the idea and outline together, I spend several months pulling together all the research that I wanted to cover, a lot of which was collecting dust in my head. But I need to go out and find some new studies that I wasn’t familiar with yet. Then I’m also playing journalist to find the people that I wanted to interview and observe to really bring their stories to life, and try to make the data sing. That was several months of prep.
+
+Then I sat down and it was four months writing the first draft of the whole thing, then several months after that editing it. So from idea to a finished product, it was about a year. But with Give and Take, especially, I’d spend a dozen years doing research on the topic.
+
+Shane: Right.
+
+Adam: So, the ideas were developing, I was doing the studies, and I guess it was a long time coming.
+
+Shane: Is that the one that you … Correct me if I’m wrong, but you wrote a book. It was like 105,000 words, and you started all over again?
+
+Adam:  Oh, thanks for reminding me of that, Shane. I was really looking forward to relating that experience. But yes, I did write over 100,000 words. So what happened was … This was, let’s say spring of 2011. I got tenure, and a couple of weeks later, a friend and colleague, Barry Schwartz, reached out and asked if I wanted to work on a book with him. I was just incredibly excited about the opportunity. I love The Paradox of Choice.
+
+Shane:  Yeah.
+
+Adam:  Which, I know you’re a fan of. I’ve hosted Barry for a few talks. We then wrote a paper together, and he was one of my favorite collaborators. I just thought it would be so much fun to try to take important ideas and bring them out into the world, more than just in the classroom with a few hundred students per year. I was getting ready to say yes, and I happened to mention it in a lab meeting with a group of my undergraduates.
+
+They basically refused to let me do it. They were like, “Look, we will drop out of your lab, we will disown you as a professor.” I’m like, “Can you even do that? What does that mean?” But they just said, “Look, if you’re going to write a book, you should start with your own ideas.” Not work on sort of a new topic with somebody who you love collaborating with. You have a worldview. It’s not out there where anybody can access it.
+
+So, I eventually decided that they were right, and I toyed around with a bunch of different ideas, and finally decided that the give-and-take was the idea that I was most passionate about. Once I had a vision for it, I started working on the proposal and accidentally wrote the book over a summer.
+
+Shane:   “Accidentally wrote a book.” I sat down with a glass of wine and came out on the other side with a fully formed manuscript.
+
+Adam: It definitely didn’t happen that way. I woke up in the morning, and I basically wrote until it was dinner time, then I would start the next … Sometimes I’ve had more ideas later at night, then repeat the next day, and I guess I had a lot that I wanted to say, I had a lot of studies that I wanted to cover, and I finished it, and I sent it to my literary agent. He’s like, “Yeah, no. No one would want to read this who’s not an academic. You need to start over and you need to write like you teach. Not like you write research papers.”
+
+I was like, “Oh, yeah. That. I forgot about that!” That was when I started actually organizing all the different things that I wanted to say, and going out and finding stories. So that was the false start before the real book.
+
+Shane: Well, whatever the process was, I mean Give and Take turned out amazing. So maybe you should do that for all your books? I don’t know.
+
+Adam: Thank you. I wouldn’t wish it on anyone. I definitely don’t plan to do it that way again. But there was something useful about that process, which was that I often find I have to write a longer summary of a study before I really start to distill what the core is, or why I care about it. That’s especially true for the areas that I know really well.
+
+Steven Pinker would call it “the curse of knowledge,” where for years, I didn’t even teach my own research in the classroom. I think I spent a good six or seven years literally not saying a word about givers or takers when I taught because I just didn’t know what was interesting about it to other people, and I didn’t have a concise way of articulating what I felt was deep inside. It was sort of hard to translate out of academic language, and I found that often when I read somebody else’s work, I’m like, “Oh, yeah!” There’s a kernel of this idea that can be sort of summarized in a sentence, or a paragraph; then we can start to bring in the interesting nuances.
+
+But with my own work, especially, I found that I sometimes had to write the longer summary, and then buried toward the end of it was, “Oh! That sentence is what I was just trying to say in four pages! Here we go!”
+
+Shane: Let’s dive into givers and takers a little bit because I think there were actually three types of people, right? Givers, takers, matchers. Can you walk me through the differences just so everybody starts in the same playing field here?
+
+Adam: Yeah. I think about these as styles of interaction. They’re kind of grounded in the motives that we bring to the table every time we talk to another person. So, givers are people who are constantly asking, “What can I do for you?” They’re excited to add value and help other people. Sometimes that means knowledge sharing, or mentoring, or just showing up early, or staying late to support other people.
+
+The opposite of a giver is a taker, and that’s somebody who’s constantly trying to figure out, “What can you do for me?” They want to come out ahead in every interaction, and takers are really great at volunteering for the projects that are interesting, visible, and important….
+
+Shane: Yeah.
+
+Adam:  …and then dumping the grunt work on everybody else. But of course, they’d love to walk away with the lion’s share of credit for every collective achievement, which is why I know we all adore working with takers. Maybe not.
+
+Then what I found was that most people are … They kind of hover in the middle of this spectrum as matchers. I found that over half of people identify this as their primary interaction style at work, where they say, “Look, I don’t want to be too selfish, I don’t want to be too generous. So I’m going to trade favors evenly. If you do something for me, I’ll do something for you.” It’s almost like they’re accountants in relationships, and they’re keeping track of credits and debits to make sure that everything is fair and square and even.
+
+Shane: So is the default of a matcher something like “go positive, go first”? Or is it “wait and see”? Or how does that …?
+
+Adam: So that can go either way, and I guess I would love to see some more data on this. But my intuition is that a lot of people adopt matching as the way to play it safe. When you look at core values, people tend to gravitate more, a little bit, in the taker/giver direction. So I’m guessing that if somebody, deep down, is more of a taker and believes that other people are selfish, and “I’ve got to put myself first,” then they’d probably wait to see what the other person contributes.
+
+Whereas if you have somebody who would prefer to be a giver, but is afraid of becoming a doormat, that person would say, “All right, look, I’ll start out being a giver; then Shane, if you screw me, then I’m going to be a matcher all the time,” which is a smart habit in general. If you’re a giver, don’t be a giver with takers. But I think that oftentimes what happens is that matchers overgeneralize that. They’re like, “Ah, I always have to have these fair trades,” which ends up feeling really transactional and shortsighted.
+
+Shane: Right. Optimizing for the short term usually almost never optimizes for the long term, right?
+
+Adam: Bingo.
+
+Shane: Actually, to what extent does organizational culture play a role in … I mean even if we’re predisposed to have some sort of… where on the spectrum between, say, givers on one end and takers on the other, and say matchers are in the middle, we’re all predisposed to probably be somewhere in there. Then we have an environmental impact, which would be culture, or organizational norms. To what extent do you think that impacts our ability to receive feedback and change styles, or switch our defaults?
+
+Adam: Culture is huge. We know that. We know that, for example, if you start out in a really competitive team, and then you try to shift the norms to become more cooperative, it doesn’t work. You end up with this pattern of cutthroat cooperation, where I’m pretending to help you, but I’m really looking for ways to stab you in the back.
+
+Whereas if you go the reverse, if you start out cooperative and then you say, “All right, we’re going to be more competitive,” people naturally fall into this pattern of friendly competition, where it’s like, “Yeah, I’m going to try to beat you, but I’m really hoping that you push me to raise my game, and afterward we’ll go out for drinks.” Maybe the loser buys the winner dinner.
+
+It’s so interesting that trying to get to that same place, it doesn’t work if you start out with more taking than giving norms.
+
+Shane: Right.
+
+Adam:  I think that a lot of what we see with the impact of culture is around the theories that people have about what it takes to be successful. I guess the tragedy that I’ve seen in a lot of organizations across sectors is, you have these leaders who say, “Look, we want people to be collaborative. We want them to help each other, and problem-solve together.” Then we’re only going to measure and reward on individual performance. So you end up basically dis-incentivizing people to act like givers.
+
+So a lot of people then check their values at the office door and say, “Look, this is not a safe way to operate here.” If you see that happen systematically over time, you’ll build a culture where every new person who walks into the organization will look at the hierarchy and say, “I don’t see any givers who are extremely successful here.”
+
+Shane: Right.
+
+Adam: That may not mean that I have to be a taker, but it sure means I have to be careful not to be generous.
+
+Shane: Right.
+
+Adam: I guess it’s, to me, it’s one of the great tragedies of organizations that we end up, even in organizations that have matcher or giver cultures, oftentimes, if they’re not strong, if those cultures aren’t strong, you end up with successful takers still being the most visible people.
+
+Shane: I can kind of see that happening. I mean I’ve worked in organizations that definitely feel along those lines. Do you think there’s a way to change that? How do you go about changing that culture where it might be negatively competitive?
+
+Adam: Well, I think the first thing that you do is you actually do have to think about your rewards system. So it’s tempting to say, “Look, this is all about culture, but culture is influenced by structure.” I don’t want to incentivize any taker to become a better faker and say, “Look, now we’re going to measure all your helping behaviors,” in the hopes that you will now get better at fooling people into thinking that you’re really passionate about making other people successful.
+
+What I want to see organizations do is take away the disincentives to being a giver.
+
+Shane: Mm-hmm.
+
+Adam: And say, “Look, of course we value this behavior, and it’s not going to be punished, it’s not going to hurt your career. It’s not going to,” as I saw when a lead consulting firm resulted in a situation where people tell you, “You have to be more selfish if you want to make partner.” I think there are lots of interesting examples.
+
+The most fascinating one I’ve seen is at Corning, where they made the Gorilla Glass for the iPhone and the iPad. They have this whole Corning Fellows program, where they say, “Look, if you’re a scientist or an engineer, and you’re a great innovator, we want to motivate you to stay by giving you a job for life in a lab for life.”
+
+Shane: Mm-hmm.
+
+Adam: Then the question is, how do you become a Corning Fellow? One of the first criteria is, are you the first author on a patent that’s worth at least $100 million US dollars? A lot of companies would stop there, right? If you can drive $100 million US in revenue, then we’re going to lock you up for life, throw away that key, right?
+
+But Corning says that we’re worried that competent takers won’t fit in with the culture, and we also recognize that their contributions will dwindle over time, especially when they have lifetime job security.
+
+Shane:  Yeah.
+
+Adam: So we’re going to say there are other criteria, too, which include, are you a supporting author on other people’s patents?
+
+Shane: Mm-hmm.
+
+Adam: I think this is genius because it often takes about a decade to get a patent in the world of glass.
+
+Shane: Yeah.
+
+Adam: There aren’t a lot of takers who are willing to have the patience to say, “You know what, Shane? I’m going to pretend to help you for the next nine years in the hopes that you will reward my generosity by making me the 43rd author on your patent.” It’s the people who day in, day out are helping each other, and solving problems for each other, sharing their knowledge, who support each other’s innovation.
+
+The key for Corning is, they say, “Look, you’ve got to do both. You have to show that you can drive your own success, but you have to also show that you can elevate the success of other people.” The question I love to work with leaders on is, what is your equivalent of later patent authorship?
+
+Shane: Right.
+
+Adam: That’s a real indicator of who the day-in, day-out givers are.
+
+Shane: When I read the book, one of the most surprising things that came across to me originally, was kind of that if you think of a Gaussian distribution of outcomes, the givers tend to move towards the tails for an extreme kind of success or failure. Am I remembering that right?
+
+Adam: Yeah. It was a big surprise for me, actually. I had all this evidence that the givers in most of the organizations that I happened to be studying were more successful than takers or matchers. I think it was because at the time, I had been studying jobs where teamwork and service were huge.
+
+Shane: Mm-hmm.
+
+Adam: So nobody wants a taker on their team. Over time, you figure out how to make sure that takers don’t succeed. I don’t know about you, but I don’t want my doctor, or lawyer, or real estate agent, or insurance agent to be a taker, either. So it was clear that in teamwork and service jobs, there was a real giver advantage. But there was this other body of evidence showing that the givers often burned out, and they were more likely to get exploited because they were too trusting, and they ended up helping other people too much, or they sacrificed their own goals to be there for others.
+
+Finally, as I took a closer look at the data, I found that for salespeople, or for engineers, and even medical professionals, the givers were over-represented on both extremes of the success spectrum. They made up a disproportionate number of the worst performers and of the best performers, which just probabilistically, you would expect matchers be over-represented on both of those extremes because more people are matchers than givers or takers. Yet, you did find pretty consistently that givers ended up either failing big or succeeding big.
+
+At first, I thought that was really just a question of ability. Givers who are extremely smart, or who are extra skilled or talented in an area, would obviously… “They would get away with it.” There is a piece of this story that is explained by ability, but even after controlling for cognitive ability tests, for various kinds of skill metrics, the polarization of giver performance held up.
+
+It turned out to be much more a question about strategy. So the choices you make every day about who you help, when you help, and how you help really matter in shaping whether that is actually detrimental or beneficial to your career.
+
+Shane: How much of those are conscious, would you say, versus just the circumstances that we’re put in?
+
+Adam: I think for most people, initially, it’s not conscious, right? They have a default style, and to borrow some Bob Cialdini language, they’re just kind of in “click-whirr” mode, where they find themselves in a situation, it’s like a default habit comes out.
+
+Shane: Right.
+
+Adam:  You can think about this in terms of heuristics and biases, right? So givers have a “trust first, ask questions later” heuristic often when they start out. It’s hard to be generous consistently unless you believe that that’s a safe way to operate in the world.
+
+Shane:  Right.
+
+Adam: Takers have a heuristic that’s sort of the opposite, which says “other people are always out to get you.” Or Oliver Williamson, if you’re a transaction-cost-economics person, which I am definitely not, he would say, “You have to watch out for opportunism tinged with guile, that anybody at any moment might be out to screw you over.” I think for matchers, it starts out often as a more conscious strategy. Like, “Ah, okay. I want to make sure that I’m kind of fair to other people, and I don’t get more than I deserve, but I also don’t get less than I deserve.”
+
+Then I think over time, people get feedback. Some givers get reinforced, right? They find that they’re able to help others in ways that don’t end up being self-sacrificing, or they find that their giving behaviors are just really valued and valuable to others. Then other people just end up burning out, or they get taken advantage of one too many times. That means you either adjust your style or adjust your strategy.
+
+I’ve never really thought about this out loud before. I’ve also never thought about it in my head before. So you’re only getting the out-loud thoughts, but basically, I think what happens to a lot of people is, they change their style when they should be changing their strategy. So I’m a giver, I get exploited over and over again, then I’m like, “Aha! Being a giver is dangerous!” As opposed to, “There’s nothing wrong with being a giver, and I should just rethink the way that I do it.”
+
+Shane: I was just thinking, it sounds like the seeds of resentment are planted for everybody but takers. So that eventually, if you work with enough takers, and there’s probably some sort of threshold, but you slowly, over time, just become more and more resentful.
+
+Like you said, instead of changing your strategy, you maybe change your default; then you become even more resentful because then you become that person who’s constantly looking over their shoulder, going, “Everybody is going to screw me over,” even thought you’re predisposed to help people.
+
+Adam: Yeah. I think there’s a lot of truth to that. As I think about this idea of resentment, there was a partner at a professional services firm who read Give and Take, and came to me and said, “It’s really interesting how my views of takers have changed over my career.” He said, “So, I think of myself as a giver,” which is a good qualifier because if he had just said, “I am a giver,” I would’ve been like, “Nope, dude, you’re a taker.” A little too quick to claim the generosity label as opposed to trying to earn it.
+
+But when he said, “I think of myself as a giver,” it was clear. He’s saying, “I value helping others, I enjoy it, I want to be the kind of person who does that with no strings attached.” He said, “Early in my career, I really resented takers because I felt like they were trying to cheat the system.”
+
+A sustainable system is one where it’s all givers because if everybody helps everybody, then you don’t have to worry about trusting anybody. So your relationships, even your work, they just become way more efficient.
+
+You also, then… that means if everybody is a giver, you can go to anybody. You might want to, even if you don’t have a close relationship with them. That means you have a better shot at reaching the most connected person, or the best expert. If the whole system works that way, we can all go to the people who are best poised to help us. That’s the way that the world should work.
+
+“These takers are screwing us, and they’re forcing us to have more and more matchers in the system, who will wield the sword of justice and punish takers.” That shouldn’t have to be that way. He said, “Now…” This is sort of reflecting on about a 30-year transition. He said, “Now when I meet a taker, I just feel sorry for them. What kind of life do you have to have lived to believe that everybody is out to get you? That every single interaction you have, if you don’t come out ahead, then somehow you’re going to fall way behind.”
+
+He said, “It’s just got to be really unpleasant to live in this person’s head.” It tracks with something that Bob Sutton is fond of pointing out, which is, “Look, if you’re a taker professionally, and you managed to achieve success, you’re still a loser in life.”
+
+Shane: Yeah. True enough, and you’re probably not very happy, right? These are the people that I think want do-overs at the end of their life, and they realize that they don’t have a lot of meaningful friendships or relationships—that the people who leave the organization, and they seem to have a lot of friends, but they all disappear the next day.
+
+Adam: Yeah. I think there’s a lot of truth to that. Although I am curious about the time horizon that it takes for that regret to kick in, because Jennifer Awker has some data suggesting that day-to-day, takers experience more pleasure than givers do.
+
+Shane: That’s interesting.
+
+Adam: They get to make sure every choice is exactly what they want. Whereas givers end up taking on more of the burden of responsibility and duty in saying, “Look, maybe it wasn’t that fun to do this thing for another person, but it’s really important to me to live those values.” Or “I care about this person.” Or “Yeah, it’ll cost me a little bit of time, but it’ll benefit them a lot more.”
+
+I actually love this cost-benefit calculus that I found that a lot of givers use viscerally, which is not like “the benefits to me outweigh the cost to me.” It’s “the benefits to others outweigh the costs to me.”
+
+Shane: Right.
+
+Adam: I think that, in the short term, that can be unpleasant. If you spend every hour of your day doing that for a few weeks, it’s not surprising that takers will seem happier. But yeah, I mean in terms of in the long run, building meaningful, lasting relationships, feeling like you contributed to something bigger than yourself, I feel like takers are at a major disadvantage there.
+
+Shane: As you were saying that, one thing I was thinking was, if you’re going through that, and you’re doing something that has a high personal cost but is beneficial to everybody else, and you’re sucking it up and doing it because it’s the right thing to do, you would internally search and find meaning in that. Then you would connect to maybe the broader picture, or the meaning of the organization, or what you’re trying to accomplish, and you would attach yourself to something outside of yourself.
+
+But I’m just thinking out load. I had a question I wanted to dive into, which is, is there empirical evidence that a team of all givers will out-perform a mixed team? How do you think about that?
+
+Adam:  So, I think you will appreciate this as a fellow Charles Darwin fan. So, Darwin wrote about this. He didn’t have any data for it, but I was going back and sort of re-reading; there was this sort of … When we use the word “Darwinian,” it almost suggests that everybody is a taker, right? Where there’s this “survival of the fittest” mentality, and that means if I don’t defeat you in some way, then you might end up defeating me.
+
+Yet Darwin himself wrote that, I think the direct quote was that if you had a tribe where they were always ready to aid one another, and to sacrifice themselves for the common good, they would be victorious over most other tribes, and this would be natural selection. That was Darwin basically hinting at the idea of group selection, which has been incredibly controversial in evolutionary psychology and biology over the last half century or so. I think David Sloan Wilson has made a very compelling case that group selection, at least under certain conditions, is real.
+
+It’s not hard to figure out why this might be, because if you have a group of all takers, it’s basically every man or woman for themselves. You end up with these constantly self-optimal decisions and allocations of effort where, instead of figuring out what’s going to be best for the tribe, everybody is basically maximizing their own outcomes, which leads to all kinds of externalities and inefficiencies. Whereas if everybody is a giver, you sit down and you can say, “All right, what does the group need to be successful?” You sort of match people’s roles to their unique expertise, or skill set, or contribution.
+
+That’s basically foreshadowing with what we now have about 35 years of evidence for, which, the main way this gets studied in my field of management and organizational psychology is organizational citizenship behavior, which are all the behaviors that are not part of accomplishing the core task, but are still relevant to the functioning of the team or the organization.
+
+Shane: Mm-hmm.
+
+Adam: So, it’s speaking up with ideas and suggestions, going the extra mile with your effort, it’s sportsmanship, it’s showing loyalty to other people, it’s helping out day to day. If you look at the aggregate of those behaviors, they are critical to team and organizational effectiveness. A lot of organizations recognize this.
+
+We know, for example, that if you look at the meta-analysis that Podsakoff and colleagues had published, the amount of time you spend helping others is as critical to your job performance as how well you do your actual tasks.
+
+Shane: Mm-hmm.
+
+Adam: They carry about equal weight in the average performance evaluation, and this is data from over 51,000 employees accumulated. They also carry about equal weight in promotion decisions. So many organizations have evolved norms and heuristics over time that say, “Look, even if we’re not good at rewarding individual giving behaviors and valuing those, in the aggregate, we don’t want to promote people who are takers as successful because we know that the organization depends on giving behaviors.”
+
+Where I think this gets a little more nuanced is breaking down what kind of giving behavior does the organization really need? This is also where a lot of givers sort of shoot themselves in the foot because they end up in reactive mode, saying, “All right, I’m going to help with whatever request I get.” As opposed to starting proactively.
+
+What is the organization trying to accomplish? Exactly. What’s the mission? Then what’s the most valuable, most irreplaceable contribution I can make that advances the team or the organization’s mission? Then if you align your giving with those collective goals, the behavior obviously adds a lot more value.
+
+Shane:  Did you do any more to see if those were the ones that became the positive outliers?
+
+Adam:  Not yet. I’d like to see somebody do it. I think that it seems likely that … I mean it fits into some things we do know empirically. So, we know, for example, there’s some new research by Rap and colleagues, which basically shows that if you spend a lot of time helping other people, if you have poor time management skills, that’s really bad for your performance or your productivity. But if you have good time management skills, it actually seems to contribute positively to your performance and productivity.
+
+What that suggests is that people who are more thoughtful about how they spend their time end up either … They end up just getting more done, period, and they have more time to be helpful. But also they end up helping in ways that are clearly more valued by others. I think you can extrapolate from that. Okay, there are multiple ways of being thoughtful…
+
+Shane: Mm-hmm.
+
+Shane:Welcome to the Knowledge Project. I’m your host, Shane Parish, the curator behind the Farnam Street Blog, which is an online community of interesting news covering topics like human misjudgment, decision making strategy, and philosophy. The Knowledge Project is a podcast that allows me to interview amazing people from around the world to deconstruct why they’re good at what they do. In this episode, I have one of my favorite people, Adam Grant. Adam has been Wharton’s top-rated teacher for four straight years. He’s also one of the most influential management thinkers out there.
+
+Adam: …if you care about being generous. One of those is to say, “Look, I’ve got to draw the Venn diagram of what the organization needs most.” Then what are my most distinctive skills? The overlap between those two is where I should be doing most of my giving, if not all of it.
+
+Shane:  I like that. That’s a really good way to kind of conceptualize it. So if you were composing a team, you would be looking for all givers and not having a taker in the group?
+
+Adam:  I would definitely want to weed out takers, but I want a mix of givers and matchers.
+
+Shane: But wouldn’t matchers just turn into givers?
+
+Adam: They would, but if you have strong matchers who really believe in fairness and justice over compassion and generosity, then you have much more foolproof taker detection and defense mechanisms. Again, givers tend to be too trusting. Matchers tend to be… they fight fire with fire, so they’re tough on takers, and they’re generous with givers. It’s a good safeguard to have some people who operate like extreme matchers in your group.
+
+Shane:  I like that.
+
+Switching gears: So, your second book you wrote was Originals, which is kind of about what we can learn from great creators. So, what at a high level did you get out of that in terms of what we can learn about great, original creators?
+
+Adam: So I noticed after I wrote Give and Take, a lot of the questions I was getting from executives, and emails from readers, were around, “if I have a culture of takers, how do I change it into a culture of givers?” As I worked with this question more, I realized it was sort of a special case of a broader question, which is, if I want to change my culture, how do I do that? I sort of had that, I guess, in the back of my mind and I also started getting a lot of questions from my students about “I come into an organization and I’m kind of at the bottom of the hierarchy. But I have an idea or suggestion that I think is really important. How do I get heard when I don’t yet have the authority to drive real change?”
+
+Then on the flip-side of that, I had a lot of leaders asking, “Well, how do I fight group think, and get people to challenge their own assumptions, and think creatively?”
+
+I’ve been doing this body of research on productivity, which was all about being the kind of person who takes initiative and champions change, and says, “Look, I’m not going to be a conformist. I’m not going to follow other people just for the sake of it. I’m going to advocate for the ideas that I believe in.”
+
+I guess all of this was sort of brewing, and I eventually decided that what we needed was, we needed a book that was sort of a sequel to creativity. There are tons of books out there based on volumes of evidence about how to generate more creative ideas. I felt like those books basically kind of left off at what do you do once you have an idea?
+
+Shane:  Yeah.
+
+Adam: How do you know if it’s any good? How do you speak up effectively? How do you build a coalition of advocates and allies? Then some related questions around timing. How do you know when to act? Ultimately, how do you build a culture that allows people to bring ideas forward effectively?
+
+So that’s was kind of where I started, and I walked in thinking that anybody who is a highly original thinker, and is comfortable being a non-conformist, must be somebody who loves taking risks, and who always acts in advance. Sort of the first mover before everybody else, and who has really good judgment about ideas. I found that I was wrong on all three of those fronts, that the most original people among us, pretty consistently, are extremely risk averse. So they really like real clarity, and maybe even certainty, about success.
+
+Shane:  Right.
+
+Adam:  They do everything they can once they have an idea to de-risk it, and make it something that’s not going to expose them to the possibility of failure. But they also remind themselves that yeah, it’s bad to fail, but it’s even worse to fail to try. That’s how a lot of them stay motivated.
+
+Then the first-mover advantage was a total myth. So it turns out that if you look at the entrepreneurship around, for example, or companies launching new products, on average, the settlers as opposed to the pioneers, the second and third movers are about seven times less likely to fail than the first movers because it’s a huge amount of work to create a market from scratch. You end up making all these specific investments in your product, or service, or technology that are hard to change. It’s much easier to watch somebody else create a market, and then improve upon their solution. So, it turned out you want to be quick to start, but sometimes there’s real value in being slow to finish.
+
+Then the judgment point: I was really stunned that the most original thinkers had more bad ideas than their peers. And that was because they just had more ideas.
+
+That, talk about Darwinian. This is the easiest way to understand how to get better at idea selection; it’s to basically say, “Look, the more ideas you generate, the better your shot at stumbling on some truly great ones.” And you have to tolerate a lot of dead ends and false starts in order to have a shot at doing something truly worthwhile.
+
+Shane:  I remember reading that in your book. I think the example that comes to mind was William Shakespeare, who wrote some of his most profound work, and also some of his, it’s widely considered, his worst work during the same period of time when you just have this massive amount of output.
+
+Adam:  It was so funny looking at the … I mean, we don’t know for sure exactly when Shakespeare wrote each of his plays, but there are plenty of experts who have traced the approximate windows when different plays were written. I was stunned looking back to see that in the very same period that he was writing Macbeth or King Lear, he was also churning out Timon of Athens, which is, I mean if you ask critics, it’s so much worse that they have a hard time even admitting that Shakespeare wrote it.
+
+You kind of imagine this curve of expertise where the better you get, the fewer of those average or mediocre works you churn out. That’s not what you see. You do see, of course, there’s a learning curve. But once people achieve expertise, they’re still going on lots of random walks. They may have cleared some objective bar of quality, where Shakespeare’s worst play would still be better than my best one. But there’s still a tremendous amount of variance in how much their work resonates with their audience, and that turns outs to be true across fields.
+
+It’s really easy to see in highly artistic fields, of course. But you also can pick it up with inventors and entrepreneurs and scientists. I think it’s part of … It goes back to the curse of knowledge—that when you generate an idea, by definition, you are too close to it to understand how other people are going to perceive it and experience it.
+
+You can improve your taste over time, you can develop all kinds of mechanisms for gaining distance from your work, and those can help you judge it a little bit more accurately, but it’s never going to be nearly as accurate as the wisdom of a crowd that didn’t generate the idea.
+
+Shane: Do you think that always holds true? I kind of want to geek out at it just a little bit. Do you think that there’s … Are there circumstances where the quality- quantity relationship kind of divides from that, where it’s better to do more quality and maybe less quantity?
+
+Adam: Yes.
+
+Shane: What would those be?
+
+Adam:  I say that largely because I don’t believe there are any conditions for anything in human behavior or social science where the opposite isn’t true.
+
+Shane:  Right.
+
+Adam: There are always times where you can take the most robust relationship that you know in behavioral science, and if you can’t find conditions that reverse it, then you’re not a behavioral scientist. So, the default answer is yes. When would that be? I think … So, I think maybe it depends on whether we’re talking about the number of ideas that you generate versus the number of ideas that you develop.
+
+I think that it’s always better to generate lots of ideas because at the outset of deciding what you’re going to work on, the broader the raw possibility set, the more likely it is that you’re going to have carefully considered what you should invest your time in—made some good bets about what’s going to be both new and valuable.
+
+I think when it comes to developing your ideas further, then, it’s probably the case that there’s some kind of curvilinear relationship between quantity and quality, where if you’re trying to work on 19 ideas at once, you’re going to end up with divided attention. You’ll have residue from one idea sort of clouding your ability to think on another idea.
+
+Shane:  Mm-hmm.
+
+Adam:  If you’re lucky, somehow those ideas turn out to be interconnected, and there’s some positive spillover from one to another. But I think for the most part, what you need is the clarity of focus from working on a relatively small number of things, especially if you’re working on something that’s hard. So, I think that’s probably another contingency: the difficulty of the problem that you’re trying to solve, which in the business world might be “how crowded is this market? How many real experts have worked on this problem already?” I think the higher the difficulty or complexity level, the harder it is to do lots of things at once.
+
+The one caveat I want to put on that, though, is we also know that very frequently, subconscious thought is more creative than conscious thought. You’ve probably tracked the Dyksterhouse work on this at some point. I think that one of the reasons that working on at least a few ideas as opposed to just one can be useful is that it sort of keeps the wheels turning in the back of your mind on the previous idea that you were working on.
+
+Shane: Right.
+
+Adam:  Sometimes it sort of works itself out for you, which is really convenient.
+
+Shane:  I’m thinking as you’re saying that, there’s probably some sort of processing going on where we have this nature that we’re predisposed to see success. Your book, you sat down, you wrote it, and we see the output of that. We see that it’s a New York Times best-seller. What we don’t see is all the failures that go into it. All the other ideas that you had. The visibility of that is either low or so far from what we see that it doesn’t consciously kind of produce it.
+
+So we think that people only have these incredibly successful ideas, because we don’t see the failures, I think that it gets lost, that there’s a process to creating anything that’s probably meaningful in terms of art or literature or inventions that includes a huge cemetery of projects that didn’t make it.
+
+Adam:  Yeah. I think that one of the most dangerous things you can do is to compare yourself to anybody who you don’t know. You’re only going to have access if they’ve been careful about having pride and quality of work.
+
+They’re only going to put out their best work, and you’re going to end up just having completely unrealistic expectations of what’s possible, and how … I guess, in particular what’s possible as far as consistent greatness is concerned.
+
+Shane:  Do you think that’s playing out right now in broader society? To sidetrack a little bit here: We see Twitter, and we see Instagram, and we only see the very best in people’s lives. Nobody is taking pictures of them crying because somebody broke up with them. I mean we only see these kind of overwhelmingly happy positive [posts], and we’re not being exposed to the spectrum of lives.
+
+Adam: So I think that’s starting to change in the sense that Silicon Valley is well known for celebrating failure. Although, people are usually only comfortable celebrating failure after they’ve achieved success, which is sort of a paradox because then you don’t get to see any ordinary people failing.
+
+Shane: Yeah.
+
+Adam:  Or people who seem to be ordinary failing. There’s some really interesting new data on Facebook, actually: that we like people more on Facebook who are little bit more self-expressive, who don’t live these airbrushed lives…
+
+Shane: Mm-hmm.
+
+Adam:   …and might even share negative information. In particular, your friends like you more if every once in a while you share kind of like, “Yeah, I had a really bad day” or “Here’s what’s going on in my life that’s truly depressing.” Again, I think it’s curvilinear.
+
+We don’t like people who complain every hour of every day, but I think this is a problem in the narratives that we tell about success more broadly. You’re expected to write a bio and a résumé where you scrub out all of your failures.
+
+Shane:  Right.
+
+Adam:   That’s a real disservice to anybody.
+
+Shane:   Not only that, but you glorify your achievements, right?
+
+Adam:  Yeah, which just ends up creating a nice little funhouse mirror for other people to look at you in, which is totally distorted. I think at the same time, I understand that people, especially if they haven’t achieved what I think are their major goals, I understand why people don’t just want to come out there and say, “Yeah, here are all the bad ideas that I worked on, and all the jobs that I applied to that I got rejected for.”
+
+That requires some real courage to put it out there. But I think there ought to be some middle ground where we can say, “Hey, here are the kinds of things that I’m toying with right now and I don’t know which ones are going to work out!”
+
+Shane:  Right. One fascinating part of the book was, you mentioned that some people are more able to avoid emotional painkillers, which is like justifying the status quo the way it is. Why are some people perpetually dissatisfied with the status quo? Maybe they have more drive. Is this learned? Is it culture? Is it innate?
+
+Adam:  I think, like everything else in psychology, it turns out to be a mix of the above. People who are perpetually dissatisfied with the status quo, it usually stems from having extremely high expectations. Tim Urban is fond of saying on “Wait But Why” that “happiness is reality minus expectations.” The higher your expectations are, the harder it is for reality to live up to them. So if your expectations are just extremely high, you’re going to walk around pissed off all the time.
+
+Shane:   Mm-hmm.
+
+Adam: Then the question is, how do you channel that? Do you channel that into constant complaining? Or do you channel that into trying to fix the things that you believe are broken?
+
+I think that you often hear engineer stereotypes as sort of perpetually dissatisfied in a good way. I remember Larry Paige telling me once that he felt like the definition of an engineer is somebody who immediately has to optimize everything that he or she sees. That can be a really good quality to have, except sometimes you end up throwing the baby out with the bath water.
+
+You introduce changes that are perceived as optimizing, but they’re really improving the focal problem while making others worse. Of course, systems thinking is supposed to be the general solution to that, and I think that’s where you start to see, “Okay, if you’re perpetually dissatisfied, and you’re looking at the world through a microscope, then it’s really hard to end up solving problems in a way that’s useful. Whereas if you’re good at …”
+
+I guess it’s hard to do that if you just have a telescope, too, because you don’t see them with enough detail. What you need is the ability to zoom in and zoom out, to see things through a microscope and a telescope simultaneously, or at least toggle between the two.
+
+I think if you do that, having this disposition to be unhappy—not unhappy in the “I hate my life” sense, but unhappy in the “the way that the world is organized could be improved and I’m going to do something about it” sense—then you’re probably going to end up with increasing levels of satisfaction as you fix the things that are broken.
+
+Shane:   So as a father, what do you do to nurture creativity in your kids?
+
+Adam:   So, I think that most of the time, nurturing creativity is mostly about getting out of the way. I think it’s really hard to raise a creative child. It’s really easy to thwart a child’s creativity. So the data show that having too many rules is one way to do that. If you look at highly creative high schoolers, for example, on average they had about half a rule in their household. Whereas their sort of … I don’t know how that works, but averages are misleading in many ways, not just-
+
+Shane:   2.5 kids. Yeah.
+
+Adam:  There you go. But on average, a lot of the families didn’t even have rules, and if they did, they just had one or two that were core. Whereas kids who were rated by their teachers as more conventional in their thinking tended to grow up in households with about six core rules.
+
+Shane: Mm-hmm.
+
+Adam: So it’s not that we don’t have rules, but what the data shows is that if you are going to create rules, they shouldn’t be about the rules themselves, they should be about the underlying values that they represent. So if you’re going to have a rule about bedtime, we like to put our kids to bed and have them … When it’s bedtime, we basically say, “Look, it’s reading time.” Then we’ll tell you lights-out time.
+
+So it’s not this draconian “Okay, it’s your bedtime.” It’s this “Hey, we really value being well rested, and it’s important to us that you get a good night’s sleep. You’ll feel better; you’ll get along with other people better.”
+
+Shane: My life is easier the next day.
+
+Adam: There you go, yeah. It benefits us, too, if all goes as planned. But so we try to be really clear when we do set rules about the values behind them. We try to not have arbitrary rules. We try to give our kids a lot of responsibility.
+
+So, one example is, I’ll say to our daughters, this is coming right out of the research that I’ve read, and I do try to be one of those psychologists who doesn’t screw up our kids, but sometimes the research is too useful not to apply. So, in this case, let’s say you’re having a dilemma around “How do you manage bedtime?” I will say to our nine-year-old or six-year-old, “All right, lights will go out at 8:30, and I’m going to give you a choice. Do you want to be responsible and turn them out yourself? Or do you want me to come in and turn them out?” If they choose responsibility, I’ll give them a little bit of extra time, but if they don’t deliver on the responsibility, then they lose the privilege temporarily.
+
+Shane:  Interesting.
+
+Adam:  That way, they get to make all these choices, and feel like they’re in charge of their own destiny, and they get to think for themselves a little bit about how they want to manage their time, which I think is useful.
+
+Shane: So what are your core family values, then, that you center around, or gravitate towards, or try to instill in your children? You have three kids, right?
+
+Adam: Yeah. We have three. Two girls and a boy. I think when it comes to core family values, we care obviously a lot about generosity and kindness.
+
+One of the things that we discuss at the dinner table every week is… The conversation about “What did you do at school today?” is not that helpful. What’s much more helpful is “what’s something you did for someone else this week?”
+
+Shane:  Right.
+
+Adam:  We try to talk about that, knowing, again, this is really scary, but in the data, parents say that concern for others is their most important value, but kids think that achievement is their most important value.
+
+Shane:  Right.
+
+Adam:  Because all you talk about is accomplishments.
+
+Shane:  Right.
+
+Adam:  How did you do on a test? Let’s talk about how the soccer game went. So we try to bring these values to light through discussions, and we know that the questions we ask will really influence what our kids think is important. I think generosity, kindness is a big one.
+
+We definitely want our kids to value learning. So one of the principles that we follow is any time they’re interested in learning about something, we’ll find a book on it.
+
+Shane:    Mm-hmm.
+
+Adam:   Their challenge then is to learn about it, maybe to teach it to us, which is really fun.
+
+Shane:    Yeah.
+
+Adam:   And we get to have a whole discussion about it. Beyond that, I think we have lots of specific values, but those are two of the big ones that we care a lot about in our household.
+
+Shane: I like that. It sounds similar to what I do with my kids, which is every day during dinner, I ask them something that they did that was kind for somebody else today.
+
+Adam: There you go.
+
+Shane: The whole point of that is to reinforce … There’s no expectations when you’re kind to people, but then you can always be on the lookout to do something nice for other people.
+
+Adam:  How old are yours?
+
+Shane:   Mine are seven and eight.
+
+Adam:  Impressive. I often find that if you do that daily, there may not be enough opportunities.
+
+Shane: Yeah. Well, I mean the conversation isn’t at an adult level. It’s kind of like some days are better than others.
+
+Adam: That’s fair.
+
+Shane:   I remember when we first started having these conversations, it’d be like, “Well, I didn’t steal his pencil” kind of thing. That was the nice thing. I’m like, “I think we need to have a broader conversation about what nice means.”
+
+Adam:  I love it.
+
+Shane:  So moving on to Option B, which just came out, which is about facing adversity and building resilience, which you co-authored with Sheryl Sandberg—I love that book. At times, I was happy, and sad, and the emotion that it evoked in me. Then the realization that I was doing things, trying to help other people through things, that were just completely tone deaf to their reality. It was incredible.
+
+What did you learn writing that book about facing adversity and building resilience?
+
+Adam: So I think one of the big takeaways for me is that I don’t think we’re very good at mental time travel. I think when something goes wrong in our lives, whether it’s professional or personal, when we face hardship, what we do is we basically amplify it and we catastrophize it. It starts to feel like this is the worst thing that’s ever happened to me, and in rare cases, it is.
+
+But that’s pretty stiff competition. For something to be the worst thing that ever happened to you, of all the bad things that have ever occurred in your life, this has to be worst.
+
+Shane: Mm-hmm.
+
+Adam:  Odds are, most of the time when something bad happens, it’s not the worst thing. I think that one of the skills we all need to develop is the ability to get in touch with our past selves. Certainly, what Sheryl is exceptionally good at is something that I’ve read a lot of research on, is to imagine “what would my past self have done in this situation?”
+
+When you do that, a lot of times you see that there are skills that you’re equipped with now that you didn’t have before. When that’s not the feeling, the next thing is to say, “All right. What’s the adversity that I went through that was similarly difficult or even worse, and how did I overcome it?”
+
+Remember that you have faced difficulties in the past and you’ve gotten through them. One, it sort of boosts your self-efficacy. It gives you confidence that you can do it again. Two, sometimes it even gives you strategies that you’ve forgotten about that you might’ve deployed earlier in your life and have just lost sight of. I think that kind of mental time travel is extremely valuable.
+
+Shane:  Do you practice that now?
+
+Adam:   Yeah, of course.
+
+Shane:  Do you do that only when you’re in situations of adversity, or is it something you do more regularly now?
+
+Adam: It’s something I’ve started doing also for occasional accomplishments. I remember publishing Give and Take. It was really an amazing feeling to write a book. I’ve loved books since the day that I could read. I remember growing up, my mom would take out 30 books every week from the library, and I would tear through them. A lot of my happiest moments in life have been either the direct result of reading or happened while I was reading a book.
+
+Also, a lot of the thoughts that have most shaped my worldview have come from books. So the idea of actually becoming an author was such a meaningful life transition. Then Originals came out, and I was like, “Yeah, I wrote another book.” The funny thing is, if I had to choose, Dan Pink once told me that choosing a favorite book is a little bit like choosing a favorite child. So I’m not going to do that, but I will say I wrote Give and Take first because it’s the set of ideas that I’m most passionate about.
+
+Shane: Right.
+
+Adam:  It’s my most core set of values. I think Originals is a better written book. I think I became a better writer over the few years in between. So it’s not like I should’ve been less excited or proud when Book Two came out than Book One.
+
+Shane:  Right.
+
+Adam: Yet I had totally adapted to the idea of being an author. It hardly even registered as something to mark and celebrate.
+
+Shane:  It’s not like a transition from non-author to author.
+
+Adam: No, exactly.
+
+Shane:  This is what authors do.
+
+Adam:  Author again.
+
+Shane:  Yeah.
+
+Adam:  Now I’m not like a one-book wonder, whatever that means. So I think that what I started doing to try to prevent that from happening, which is something that writing with Sheryl really imprinted on me is, Sheryl said, “Look, moments of joy are really important. They’re part of what makes life worth living. They’re a part of what we have to look forward to. It’s part of being human, is being able to enjoy life. You don’t want to deprive yourself of that.”
+
+So when these milestone moments do occur, what I do now is I rewind about five years, and I ask myself “Okay, if my five-years-ago self knew this was going to happen, how excited would I be?” Then it’s my responsibility to be that excited now, and then I have this annoying internal monologue about like “Well, I’m not as excited. Why am I not as excited?” Then it’s just not fun anymore.
+
+But it actually does get me, most of the time, back in touch with the emotions. It’s to say, “Wow, if you had told me five years ago that I would’ve written a second book, I would’ve freaked out that anybody read my first book, and that there was an audience for a second one.” Then also, I had an idea that I thought was worth devoting a whole book to, or a question that was worth writing about for that many words and pages.
+
+That, to me, has been something that transcends adversity, that kind of rewinding and saying, “All right, how would I look at the situation I’m in now if I could earlier in my life?” usually, is a way to, I guess, sustain some appreciation and some gratitude, and even some satisfaction.
+
+Shane: What kind of conversations do you have with your kids about building resilience and facing adversity?
+
+Adam: Oh, well, I think most of the time, what we do is we end up asking our kids to think about this through the eyes of others. So one of the things that’s hard for anybody, but especially hard for kids, is when you’re in a difficult situation, it’s hard to gain perspective on it. Usually, the emotions are overwhelming your ability to think, right? So you could say, in common terms that it’s all system one and not enough system two.
+
+Shane: Mm-hmm.
+
+Adam:  So the way that we try to prepare our kids for that is, we ask them whenever we’re facing difficulty, or whenever they come home and tell us about a friend at school who ran into a difficult situation, we ask, “Well, what should I do, or what should your friend do?” We actually ask our kids for advice, and the hope is that helps them rehearse, kind of thinking through different kinds of hardship, that it gives them some go-to strategies to work with.
+
+Also, there’s this research on how one of the … As you know from reading Option B, one of the big ways to build kids’ resilience is to show them that they matter.
+
+Shane: Mm-hmm.
+
+Adam: Mattering is the belief that other people notice you, care about you, and rely on you. I think most parents are exceptionally good at the first two. Like, we know we’re supposed to notice our kids. That’s why we have lots of rules about no smartphones at dinner; we also go out of our way to do tons of things to show how much we care about them.
+
+But we forget that relying on kids is also a way to build their resilience because it shows them that they’re not helpless, that they have the strength to do things for others. So the hope is, whenever we ask them for advice on navigating a dilemma or a challenge, that makes them feel that they matter because we are willing to rely on them.
+
+Shane: I like that a lot.
+
+I want to switch gears a little bit here. As an organizational psychologist, what do you think of the educational theory of communities of practice, internal to organizations?
+
+Adam:  I think communities of practice are one of the most, I would say, under-cited and under-applied literatures, mostly in kind of a micro-sociology world. So I remember first reading Lave and Wenger, I guess probably, I don’t know, almost 15 years ago now. I thought the core insight was really powerful—that you don’t develop expertise just by reading a book. A lot of the expertise you need isn’t written down anywhere yet.
+
+Shane: Right.
+
+Adam: It’s too early, or it’s just tacit knowledge where people in a profession haven’t yet even figured out how to articulate what they know. They just do it. So the way that you build expertise actually is by joining a community of people who share your interests, who may have the skills that you want to acquire.
+
+You talk to them, you watch them in action, you hang out with them, then there’s this … The hope is that there’s a group-level elevation in capability. I think it’s brilliant, and I think that most organizations are not designed … Most workplaces are not designed to build these. Frankly, it’s one of the things that’s so valuable about Farnam Street; you’ve gathered this group of people who share an interest in improving their decision making, and maybe even being reasonable, rational human beings, and they learn together, which I think is incredibly cool.
+
+Shane: You think that’s an underutilized kind of tool organizationally. What would you do to foster that, or bring more awareness to it?
+
+Adam: I think the first thing I would do is I would create a mechanism where people could build their own communities of practice. So a lot of organizations now have expert databases…
+
+Shane:  Mm-hmm.
+
+Adam:   …where you can search for people who are knowledgeable about the thing that you want to learn or apply. I think that’s useful, but it’s kind of backwards. What you should have are mechanisms for people to say, “Look, I want to learn more about this. Who else wants to learn about it?”
+
+Shane:  Yes. We can learn together instead of…
+
+Adam: Yes. Then once you have a critical mass around a topic, either because it’s just something a lot of your employees care about or it’s something that has real relevance to the future of the organization, then you can start to think about bringing experts in or putting organizational resources behind it. One of the coolest examples that I’ve seen, and this is Jay Moldenhauer-Salazar. He’s an HR leader, who at the time, he was at Old Navy. Now he’s at Riot Games.
+
+What he did was, he took on a new HR role, he had, I think, about 100 people reporting to him all of a sudden. He sat down with every one of them and he said, “Look, I want you to start a secret mission.” And you know he’s a gamer when he says “secret mission,” right? He’s like, “All right. People are going to be either totally excited by this or totally weirded out. Either way, it’s a good introduction to who I am.”
+
+He said, “Your secret mission is to find something you’re passionate about, that doesn’t exist at this organization yet, and create a group around it or an initiative around it. Except it can’t just be for you. It has to be of interest to at least one other person.”
+
+He said, “I’m going to meet with you about it, and I’m going to ask you in 90 days what’s your mission, and how can I support it?” How cool would it be if every manager gave every person to work with them a chance to go on one of those missions?
+
+Shane: That’d be awesome. Speaking of managers, there’s a trend toward “un-managing,” or there’s seems to be anyway a visible kind of giving people space and freedom to be themselves rather than conforming to any predetermined structure. Maybe holacracy being the example of that. What do you make of all this?
+
+Adam: Oh, well, I saw on Twitter this morning, one of your fans wanted to ask about that. So I’m curious to hear your take on this, too, Shane. I’m bothered by the fact that this interview is so one-sided and I don’t get to ask you all my questions.
+
+Shane: I like it that way. It works.
+
+Adam: I know, but then that’s really selfish of you.
+
+Shane:  Oh, I’m a taker now?
+
+Adam:  “You’re doing it on your terms instead of mine!” No, I realize it’s … One of us will leave this conversation feeling like we didn’t get to ask enough questions. I’ve resigned myself to be that person today.
+
+Shane:  So I mean my answer to this would kind of be, I think it can work, but it’s a very hard thing to implement backwards into an existing culture and changing it. I think it can kind of work from the ground up. But there’s not a lot of base cases of it being incredibly successful. So I don’t know enough about it to say that I would be a fan of it or not.
+
+As an entrepreneur, I think that would give me more freedom inside of an organization to identify problems and solve them. But then I would think it would also be a bit of mess. People that I’ve talked to in some of these organizations tend to feel it’s a bit of a mess.
+
+Adam: Yeah. I think holacracies are a really interesting idea. I think that I’m torn because on the one hand, there was a book actually that Herald Levitt wrote. He spent his whole career studying organizations, and the final book of his career was called Top Down. It was about how a hierarchy is inevitable for social organization, and it’s basically here to stay.
+
+The more you fight it, as opposed to figuring out how to work with it, the worse off your organization is going to be. But then on the flip side, I don’t think we tried that many alternatives. The ones that have been tried probably haven’t been studied. They certain haven’t been A-B tested to try to figure out how to improve them.
+
+Shane: Oh, yeah, definitely.
+
+Adam:  So what I would love to do is, I would love to set up an organization where, I don’t know whether holacracy is the right type of system, or whether you want a self-management system more like the tomato paste producer Morning Star has, where they have what they call a “fluid dynamic” hierarchy. Different people are in charge in different meetings, in different projects. But whatever the model, what we should be doing is, we should be running constant experiments to try to change the way that hierarchies have evolved and see whether a flat organization works under certain conditions, or whether there are certain circumstances where you need a hierarchy, and then how do we best toggle between the two.
+
+As I think about the research on this so far, there was a great HBR article last year by Ethan Bernstein. I think it was called “Beyond the Holacracy Hype” if I remember correctly. It was the best evidence-based article I’ve seen so far on it that basically said, “Look! Here’s some benefits, here’s some challenges, here’s what we learned from studying Zappos,” and I think that’s the kind of dialogue we need more of.
+
+I would say the jury is still out. I think it’s … I agree with you that it can work, and I think we know far too little about how to make it work.
+
+Shane: Like Malcolm Gladwell, you use a lot of incredibly compelling stories to supplement your interpretation of social sciences. To what extent are you afraid of creating false narratives? How do you guard against mistaking correlation and causation? How do you think about that?
+
+Adam: Well, I think that the first thing I would say is that you have to let the data drive the narrative rather than vice versa.
+
+Shane: Mm-hmm.
+
+Adam:  So you’re in danger if you have a story you want to tell or an idea that you want to promote, and then you go out, confirmation-bias searching for the right data.
+
+Shane: Yeah.
+
+Adam: I think what we should do is we should start by asking questions, then search for data that inform the question. If you can’t find any data to contradict your point of view, you haven’t looked hard enough. I think there’s a great quote from a sociologist. Gary Marx. I don’t think he’s related to Karl. But he was talking about the difference between a fundamentalist and a scholar. He said, “The difference is that a fundamentalist gives answers, and a scholar asks questions.” It’s been actually interesting to think about this. I think we should all be scholars.
+
+If I were to imagine, there are different ways that I could’ve written Give and Take. The pure fundamentalist would’ve only talked about the benefits of giving, and said, “Look, you should help other people because it will make you more successful in your career, and it will make you happier.” A scholar’s responsibility is to say, “But wait a minute, nothing is an unmitigated good in life.”
+
+Shane: Yeah.
+
+Adam: And certainly it worked, so there have to be circumstances where helping others is not beneficial, and even harmful. Let’s understand those, and in fact you’ll be a better fundamentalist if you’re a scholar because you will know how to maximize the benefits and minimize the costs, or at least you’ll have more clues about how to do that. So that was my commitment going in.
+
+I remember, actually, I had an editor who read my book proposal for Give and Take and said, “Yeah. To be honest with you, I don’t want to read this book.” I said, “Why not?”
+
+Shane: That’s a bad sign.
+
+Adam: He said, “Maybe I’m going down the wrong path here.” But I was like, “Why not?” He said, “Well, because I go to church and I’m told I have to be a giver in my community, and family life, and at home. Now you’re telling me I’ve got to be one at work, too? That sounds awful.”
+
+I reflected on that, and what I realize was I had the whole book organized in terms of the first half was highlighting the benefits of being a giver; then the second half was looking at the cost and how to reduce it. It felt totally one sided.
+
+Shane: Yeah.
+
+Adam: I actually rewrote the intro chapter after that to say, “Look. Actually, the fundamental question to this book is why are some givers successful, and why are some unsuccessful, and how can we both achieve our own success and enhance the success of others?” Once that was the orienting question, it was then pretty difficult to have a narrative take me in the wrong direction because my goal was to capture all the evidence and try to sort out what we really know about when a giver is successful versus failed.
+
+Correlation–causation is an interesting one. I guess it’s an issue. It bothers me a lot less than it bothers a lot of people. Let me give you three reasons for that, and you can tell me if you agree or not.
+
+So the first one is, most of the studies I cover are either randomized controlled trials, where we make really strong causal inferences, or careful field studies, where we’re looking at either longitudinal data so that we can look at reverse causality, or we have really good controls for endogeneity, and we’re able to sort of partial out all kinds of admitted variables, and begin to estimate the effect of a variable on another variable. So I think the research methods take care of a lot of that. It’s hard to randomly assign people to some of the things that I study.
+
+So that’s where we do need really good econometric studies. But the second thing that makes me less concerned about this is, I think that for the most part, when we have causal effects in the social sciences, they tend to be feedback loops. It’s not that in real life, X is just causing Y. It’s more that X is boosting Y a little bit, then Y reinforces X, and they start to fuel each other a little bit.
+
+Shane: It’s interconnected, yeah.
+
+Adam:  Totally. Carl Wake would call these “deviation amplifying spirals.” But the easy one is Success Confidence, right? Where you lack confidence at something, you try it, you develop your skills a little bit more, then as you have success, your confidence goes up, and that leads you to try more things, and that prepares you for bigger success.
+
+Then at some point, you run the risk of becoming over-confident and it all falls apart. But until that point, the chicken-or-the egg question is sort of irrelevant. Do you need confidence to be successful? Well, kind of. Do you need success to be confident? Well, kind of.
+
+Shane: How does replication … I wouldn’t call it a crisis, but … how does replication fit into everything? Right now, it seems to be undergoing “this doesn’t replicate.” How much time do you think, or how many, outside of one study, how many times does it have to replicate over how many years before we can have a significant amount of confidence that it is…. How does this affect how you think about that?
+
+Adam: Yeah. So this is actually a great segue into the third point that I would make, which is I think that oftentimes people have a knee-jerk reaction that “correlation isn’t causation.” You know they’re trained that that’s how you should always look at social science data—with skepticism—which you should. Only sometimes they overreact that way because if you have a relationship between two variables, there are only three explanations for it. Only three.
+
+One is that X causes Y, two is that Y causes X, or three is that there’s some other variable, Z, that causes both Y and X, and the relationship is spurious.
+
+What’s interesting about that is that in the replication crisis, there’s this idea that you have a study where you showed that X caused Y, but your manipulation of X is funky, so we can’t trust it, and we’re going to go and replicate it. Then aha! We found in our replication that in fact X, a better X, or a more carefully measured Y, we didn’t get a causal effect.
+
+I think they’re asking the wrong question there. The question is not “Does X cause Y?” The question is “When does X cause Y?”
+
+Shane: Mm-hmm. Under what circumstances.
+
+Adam: Yeah. I mean circumstances, but also people. So if you want to enter any of the debates in the replication crisis, you didn’t have the same participants with the exact same personality traits and preferences and tendencies in your replication that you did with the original one. So the odds that you’re going to find the exact same effect with a different group of people who don’t have an identical distribution of traits are pretty close to zero in my opinion. There’s a great quote from Bill McGuire, who is a social psychologist, who said that “an experiment in the lab doesn’t test whether a hypothesis is true. It tests whether the experimenter is a sufficiently ingenious stage manager to produce the conditions under which the effect is true.”
+
+Shane: Right.
+
+Adam: And that’s what we’re doing, right? Then the challenge for us is any time we get an effect, to vary those conditions and see when is it strong, when is it weak, when is it positive, when is it negative? I think the replication crisis has kind of missed that larger point. There all these announcing meta-analyses with P-curves saying, “Well, the average effect is zero.”
+
+Well, great, I know how to get an average of zero. Let’s have an effect in half the studies of -0.7, and the other half of the study is 0.7. That doesn’t mean the effect isn’t real. That means the effect is complicated, and we need to understand it better.
+
+Shane: How do we do that? Do we have to arrange the way that we think about the problem to vary the conditions to find out when it replicates and when it doesn’t, and to what extent they impact that?
+
+Adam: I think that is the key, and that any responsible social-behavioral scientist should sit down whenever they test an effect and say, “Here are the boundary conditions for the effect where it should hold, and here are also the moderators that can reverse the effect, and now I’m going to go and investigate all of those.” That just means a richer understanding of the phenomenon, right?
+
+Let’s take the power-pose debate for example. Do I believe that power poses can cause psychological behavioral changes in people? Sure. Do I know when those changes occur and for whom? Not a clue yet.
+
+Shane:  Yeah. I like that way of thinking about it. I think that’s a helpful framework to, as we walk through those, and walk through anything in life, about whether it’s taking Google 20% time and implementing it at your organization, any idea that we’re trying to take out of one ecosystem, if you will, and put it into another ecosystem, I’d like to think.
+
+Adam:  Yes.
+
+Shane: Under what conditions does that survive or thrive in that ecosystem, and what are the important components of that? Then do we have that at play here?
+
+Adam: Yeah. It’s funny. I remember I was at a conference last year, and I was doing a little session on my research. An elderly gentlemen walked into the room, and I didn’t recognize him. I leaned over to somebody and whispered, “Who is that?” And the answer was, “That’s Charlie Munger.”
+
+Shane:  Nice.
+
+Adam:  I tried to punt the speaker role so that we can all listen to him, but he wanted to ask some questions and have a conversation. At one point, somebody brought up his line of “where was he going to die? so that he could never go there.” I thought that was the clearest way of explaining how much in life is conditional.
+
+Shane:  Yeah.
+
+Adam: It’s not like he’s assuming he’s going to experience an event, right? The question is what are the sequences of choices that I make that will make me experience that event? Especially when we study human behavior, we can affect maybe the first move in those sequences of choices, but there’s this thing called free will that gets in the way and affects the rest of them.
+
+Yeah, I think it’s quite remarkable that we can never design studies where we get robust and consistent effects in different samples or different contexts because people are incredibly complicated.
+
+Shane: I’m super-conscious of time here. I’ve got one question left for you. A personal question… You’re prolific, right? You do so much. Is there a ceiling, do you think, to what we can accomplish and live a balanced or harmonious life?
+
+Adam: Hello pot, I am kettle.
+
+Shane:  Tell me about this.
+
+Adam: I’m amazed by how much you publish every week, and when I open your newsletter, I’m like, “Okay, this is going to be the week where Shane’s newsletters are only going to be other people’s writing because with all the reading that he does, there’s no way that he’s also writing.” So I’m going to fire this question back at you. I’ll give you my answer, which is I think that having kids has made me much … I work a lot less than I used to. I used to work basically with all of my free time.
+
+Now I get almost all my work done when our kids are at school, or at camp, or asleep. I think that it’s made me more efficient with some of the things that I do, but it’s also caused me to choose to do less, and do less well, is the hope. I think that yeah, of course there’s an upper bound, right? You can only work so many hours in a day, you can only… Even if you have a million thoughts, you can only say them or type them so fast at this point.
+
+Then you’re going to want to work on making them really clear and compelling to other people. So yeah, of course there’s a ceiling. I think everybody has a different ceiling based on their motivation and their capability for the particular work that they’re doing. But it bothers me a lot when people ask, “Well, how can I be more productive?”
+
+Shane: Mm-hmm.
+
+Adam:  I think the question they should be really asking is, “How can I accomplish more meaningful work?”
+
+Shane: Right.
+
+Adam: For some people, that may be more output, or there may be these ideas they have, or these products they want to build that just aren’t out there yet. But I think for most people, productivity is not necessarily the answer, and it’s more about asking, “How do I use my time and my skills effectively?”
+
+Shane: One thing that I’ve kind of changed my mind on, I would say in the last three or four years, is thinking in terms of balance. Balance implies that you have one third, one third, one third, or whatever that is. I think more in terms of harmony now, between work and life, and intermixing them… I mean I’m fortunate that I can intermix them to the extent possible, and I can travel with my kids, and meet people, and do all of these things kind of together.
+
+But the flip side of that is making time for what’s important and using a regret-avoidant framework. I love spending time with my kids. I want to have dinner with them every night.
+
+I want to do things that I’m willing to sacrifice other things to do that. I think before, I was more apt to just try to do everything. The other thing I’m kind of changing my mind about personally is, before, I was trying to do everything myself. Now I’m trying to build a team to accomplish all the stuff I want to do.
+
+Adam: Well, I love that, and I think the idea of harmony really resonates. There’s a whole literature on work/family. My colleague Nancy Rothbard has done some of the most interesting work in this area, saying, “Look, we always think about work/family conflict, and how work can deplete and detract from our lives, but there’s also such a thing as enrichment where work can improve our lives and vice versa, too.”
+
+I think harmony allows for those things to happen. I think also, I think that too many people are obsessed with, when they think about balance, they think each day has to be balanced.
+
+Shane: Yeah.
+
+Adam:  If you are going to strive for balance, it’s much easier to achieve that at the week level or the month level.
+
+Shane: Yes.
+
+Adam: I have plenty of days that are out of balance.
+
+Shane: Yeah.
+
+Adam: I try not to work on the weekends. So those are really not balanced at all. I have days when I travel, where I don’t get a lot of time with my family. But the goal is, over the course of a week, and then as I aggregate that up to the month level, that I’m spending a certain number of hours on each of the projects that I care about.
+
+If that’s not met, I’ll try to make more work time. But ultimately, my goal is to feel like I get a lot of quality time with my family, and that comes first. So I guess I think that to me, it’s better to have in a week two days that are work heavy, then some days that are all family, than it is to have five days that are a mix of the two.
+
+Shane: I’m totally on board with that.
+
+Adam:  Are you?
+
+Shane: Yeah, totally. I think that makes a lot of sense.
+
+Adam: That was too easy.
+
+Shane: Yeah. We should argue. Listen. Thank you so much for your time. This has been fascinating and incredibly insightful.
+
+Adam: Well, it was fun to chat with you. Next time we talk, I want to start just barraging you with questions.
+
+Press cmd⌘ + p or crtl + p to print this transcript. Sharing with one or two friends is ok. Posting on the internet is not.
+
+Farnam Street Logo
+© 2023 Farnam Street Media Inc. All Rights Reserved.
+Proudly powered by WordPress. Hosted by Pressable. See our Privacy Policy.
+
+Speaking
+Sponsorship
+About
+Support
+Education
+We’re Syrus Partners.
+We buy amazing businesses.
+
+Farnam Street participates in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising commissions by linking to Amazon.
+
+
+26:43
+
+
+6
+
